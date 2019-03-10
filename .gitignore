@@ -1,2 +1,15 @@
-*
+/*
+!/.config/
+/.config/*
+!/.config/i3
+!/.config/rofi
+!/.config/polybar
+!/.config/ranger
+/.config/fish/completions
+/.config/fish/fish_variables
+/.config/fish/fishfile
+!/.config/fish
+!/.Xdefaults
+!/.vimrc
 !.gitignore
+!LICENSE
