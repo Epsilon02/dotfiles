@@ -10,6 +10,7 @@ i3 dotfiles
 | urxvt-unicode-patched | a patched urxvt version from aur for tighter font spaces |
 | rofi | A window switcher, Application launcher |
 | pywal | for setting a background and get a systemwide menu |
+| betterlockscreen | realy cool i3-lock configs |
 
 ## TODO
 complete package list
