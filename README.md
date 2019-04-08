@@ -11,6 +11,7 @@ i3 dotfiles
 | rofi | A window switcher, Application launcher |
 | pywal | for setting a background and get a systemwide menu |
 | betterlockscreen | realy cool i3-lock configs |
+| xorg-xfd | needed for correct sinji displaying in polybar |
 
 ## TODO
 complete package list
